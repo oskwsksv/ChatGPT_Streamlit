@@ -6,7 +6,7 @@ from pyngrok import ngrok
 
 st.title("ChatGPT Chatbot")
 # APIキーの設定
-openai.api_key = "sk-proj-wRmzNaUky85DxeJxIyc8T3BlbkFJglwkDFNbQPlq8gq9ACv5"
+openai.api_key = "xxxxx"
 
 
 # セッション内で使用するモデルが指定されていない場合のデフォルト値
